@@ -10,23 +10,21 @@ Olá nesse minitutorial apresentaremos um modelo de preenchimento do Anexo I, Pl
 Houve uma alteração no formato da planilha apresentada no vídeo. Antes o conteúdo do plano de trabalho era dividido em várias abas. O modelo atual juntou todas numa única aba e criou uma capa para a identificação do projeto, conteúdo das planilhas de meta e orçamento permanecem as mesmas.  
 {% endhint %}
 
-Para o Edital Cultura Dendicasa vamos fazer um preenchimento simplificado onde indicaremos os campos cujo preenchimento é padrão e o que precisa ser customizado.
+Para o [Edital Cultura Dendicasa](http://editais.cultura.ce.gov.br/2020/03/31/cultura-dendicasa/) vamos fazer um preenchimento simplificado onde indicaremos os campos cujo preenchimento é padrão e o que precisa ser customizado.
 
 Neste exemplo vamos simular a inscrição de um projeto de um grupo de musical que gravou uma apresentação.
 
-📰 link para baixar o modelo plano de trabalho
+📰 [link para baixar o modelo de preenchimento do plano de trabalho](https://mapacultural.secult.ce.gov.br/files/opportunity/1652/modelo_--_anexo_i__-_proposta_de_plano_de_trabalho.xlsx).
 
 ### Identificação da proposta
 
-Destacamos de amarelo os campos que precisam ser customizados. Nesta primeira parte, basta preencher as informações de identificação do projeto. Lembrando que o número de inscrição é o indicado na ficha do Mapa Cultural que se inicia com on-  
+Destacamos de amarelo os campos que precisam ser customizados. Nesta primeira parte, basta preencher as informações de identificação do projeto. Lembrando que o número de inscrição é o indicado na ficha do Mapa Cultural que se inicia com on- XXXX 
 
 ![](.gitbook/assets/captura-de-tela-de-2020-04-02-14-53-44.png)
 
 ### Meta de execução
 
 Basta alterar a descrição 1.1, pois os valores e a forma de contra partida estão definidos no edital.
-
-
 
 ![](.gitbook/assets/captura-de-tela-de-2020-04-02-14-57-46.png)
 
